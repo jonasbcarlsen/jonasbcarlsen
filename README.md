@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Check out [my webpag](https://jonasbcarlsen.github.io/) for more
+Check out [my webpage](https://jonasbcarlsen.github.io/) for more
 
 <!--
 **jonasbcarlsen/jonasbcarlsen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
