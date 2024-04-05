@@ -1,10 +1,10 @@
 ### Hi there 👋
 
-I'm an engineer at University of Oslo at Department of Physics.
+I'm an engineer at University of Oslo in the Department of Physics.
 
 Check out [my website](https://www.birkelandcarlsen.com) for more.
 
-Currently I'm working on firmware for our satellite-based ionosphere charge-measuring instrument, as well as working on upgrading our ground-based observatories.
+Currently I'm working on the firmware of our multi-needle langmuir probe instrument, as well some upgrades to our ground-based observatories.
 
 <!--
 **jonasbcarlsen/jonasbcarlsen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
