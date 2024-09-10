@@ -1,10 +1,8 @@
 ### Hi there 👋
 
-I'm an engineer at University of Oslo in the Department of Physics.
+I'm an engineer at University of Oslo in the Department of Physics, in the research section Plasma & Space Physics.
 
-Check out [my website](https://www.birkelandcarlsen.com) for more.
-
-Currently I'm working on the firmware of our multi-needle langmuir probe instrument, as well some upgrades to our ground-based ionosphere observatories.
+My university website: https://www.mn.uio.no/fysikk/personer/adm/jonasbc/index.html
 
 <!--
 **jonasbcarlsen/jonasbcarlsen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
