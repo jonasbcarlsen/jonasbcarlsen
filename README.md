@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm an engineer at University of Oslo in the Department of Physics, in the research section Plasma & Space Physics. This is my personal GitHub profile.
+I'm an engineer at the University of Oslo, Department of Physics. This profile is used for personal projects and external collaborations.
 
 <!--
 **jonasbcarlsen/jonasbcarlsen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
